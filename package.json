@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ManiAmani-Demo/Lustre/issues"
   },
-  "homepage": "https://github.com/ManiAmani-Demo/Lustre#readme"
+  "homepage": "https://github.com/ManiAmani-Demo/Lustre#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
